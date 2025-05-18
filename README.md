@@ -4,7 +4,7 @@
 * It is written in node js with typescript
 
 ### HOW TO START THE SERVER
-* Firstly we need to install the dependencies by using npm install. It will install the dependencies like typescript, ts-node, ts-node-dev.
+* Firstly we need to install the dependencies by using **npm install**. It will install the dependencies like typescript, ts-node, ts-node-dev.
 * ts-node-dev helps to restart the server again and again and transpile the typescript code whenever there is any change happens
 * After installing dependencies and to start the server, we will use **npm run dev**
 
